@@ -1,4 +1,5 @@
 public class Variables {
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         int myNumber = 865;
         int myNUMBER = 865;
