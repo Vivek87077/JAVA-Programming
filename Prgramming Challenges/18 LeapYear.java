@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// (divisible by 4 but not 100, unless also divisible by 400)
+
 class LeapYear {
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
